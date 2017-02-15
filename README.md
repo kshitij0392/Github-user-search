@@ -1,4 +1,4 @@
-Angular Spotify Is a Angular 2 based single page App that uses the Spotify Web API to find artists and display albums and track listings.
+Github User Search Is a Angular 2 based single page App that uses the Github Web API to find any user on github by it's user name.
 
 Tu Run this app You need Nodejs Installed on your mac or windows (Download it from here : https://nodejs.org/en/
 
